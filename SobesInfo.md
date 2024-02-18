@@ -38,7 +38,7 @@
   - [Глоссарий:](#глоссарий)
 
 ---
-<details><summary>Details
+<details><summary>
 
 ## `Прототипное наследование`
 </summary>
